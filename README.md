@@ -5,28 +5,28 @@ This repository is for the experiment data of the paper "Contour Transformer Net
 If you have any question about this paper, please feel free to contact me at yuhang@email.sc.edu.
 
 ## Knee dataset
-Please download the original knee X-ray images from the OAI dataset: https://nda.nih.gov/oai
+Please download the original knee X-ray images from the [OAI dataset](https://nda.nih.gov/oai).
 
-Image list:
+Image list: [knee_img_list.json](https://github.com/rudylyh/CTN_data/blob/master/knee_img_list.json)
 
-Segmentation masks:
+Segmentation masks: [knee_data](https://github.com/rudylyh/CTN_data/tree/master/knee_data)
 
 ## Lung dataset
-Please download the original lung images and ground truth segmentations from the SCR dataset: https://www.isi.uu.nl/Research/Databases/SCR.
+Please download the original lung images and ground truth segmentations from the [SCR dataset](https://www.isi.uu.nl/Research/Databases/SCR).
 
-Image list:
+Image list: [lung_img_list.json](https://github.com/rudylyh/CTN_data/blob/master/lung_img_list.json)
 
 ## Phalanx dataset
 The phalanx dataset is not publicly available for now.
 
 ## Hip dataset
-Please download the original hip X-ray images from the OAI dataset: https://nda.nih.gov/oai
+Please download the original hip X-ray images from the [OAI dataset](https://nda.nih.gov/oai).
 
-Image list:
+Image list: [hip_img_list.json](https://github.com/rudylyh/CTN_data/blob/master/hip_img_list.json)
 
-Segmentation masks:
+Segmentation masks: [hip_data](https://github.com/rudylyh/CTN_data/tree/master/hip_data)
 
-
+***
 If you are using this dataset in your work, please cite our paper:
 ```
 @article{lu2020contour,
