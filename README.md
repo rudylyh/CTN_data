@@ -1,8 +1,11 @@
 # Contour Transformer Network for One-shot Segmentation of Anatomical Structures
 
-This repository is for the experiment data of the paper "Contour Transformer Network for One-shot Segmentation of Anatomical Structures", *IEEE Transactions on Medical Imaging*, 2020.
+This repository is for the experiment data of the paper "Contour Transformer Network for One-shot Segmentation of Anatomical Structures", *IEEE Transactions on Medical Imaging*, 2020. ([PDF](https://arxiv.org/pdf/2012.01480.pdf))
 
 If you have any question about this paper, please feel free to contact me at yuhang@email.sc.edu.
+
+![res_cmp](res_cmp.png)
+(Our method trained with only one label achieves comparable performance with fully supervised alternatives.)
 
 ## Knee dataset
 Please download the original knee X-ray images from the [OAI dataset](https://nda.nih.gov/oai).
