@@ -26,7 +26,7 @@ Image list: [hip_img_list.json](https://github.com/rudylyh/CTN_data/blob/master/
 
 Segmentation masks: [hip_data](https://github.com/rudylyh/CTN_data/tree/master/hip_data)
 
-***
+## Citation
 If you are using this dataset in your work, please cite our paper:
 ```
 @article{lu2020contour,
